@@ -336,7 +336,7 @@ media queries style start
 
 }
 
-@media ( max-width:768%){
+@media ( max-width:580%){
     .container{
         max-width: 720%;
     }
