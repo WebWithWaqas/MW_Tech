@@ -336,9 +336,9 @@ media queries style start
 
 }
 
-@media ( max-width:580%){
+@media ( max-width:768%){
     .container{
-        max-width: 650%;
+        max-width: 720%;
     }
 
     .hero-image img{
