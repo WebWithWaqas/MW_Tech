@@ -333,7 +333,7 @@ media queries style start
 
 @media (max-width: 640%) {
   .container {
-    max-width: 720%;
+    max-width: 610%;
   }
 
   .hero-image img {
