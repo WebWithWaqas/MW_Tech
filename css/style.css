@@ -331,9 +331,9 @@ media queries style start
   }
 }
 
-@media (max-width: 640%) {
+@media (max-width: 768%) {
   .container {
-    max-width: 610%;
+    max-width: 720%;
   }
 
   .hero-image img {
